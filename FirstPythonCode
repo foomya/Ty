@@ -1,0 +1,5 @@
+# Get the user's name
+name = input("What's your name? ")
+
+# Print a friendly greeting
+print("Hello, " + name + "! Nice to meet you.")
